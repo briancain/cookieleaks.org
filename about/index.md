@@ -5,7 +5,7 @@ title: About
 
 # What is Cookieleaks ?
 
-<img src="{{site.baseurl}}/public/images/anoncookie.png" align="right"</img>
+<img src="{{site.baseurl}}/public/images/cookielogo.png" align="left" height=30 width=120</img>
 
 CookieLeaks is a not-for-profit media organisation. Our goal is to bring important news and information to the public. We provide an innovative, secure and anonymous way for sources to leak information to our journalists ([coming soon](/submit)). One of our most important activities is to publish original recipe materials alongside our news stories so readers and historians alike can see evidence of the truth. We are a young organisation that has grown very quickly, relying on a network of dedicated volunteers around the globe. Since 2015, when the organisation was officially launched, CookieLeaks has worked to report on and publish important information. We also develop and adapt technologies to support these activities.
 
